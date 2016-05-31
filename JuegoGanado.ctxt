@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=JuegoGanado
+comment0.text=\r\n\ Clase\ JuegoGanado\r\n\ Jorge\ Arredondo\ Santiago\ \r\n\ version\ 1.0\r\n\ 30/05/16\r\n\ POO\ UASLP\r\n
+comment1.params=
+comment1.target=JuegoGanado()
+comment1.text=\r\n\ Constructor\ Clase\ JuegoGanado\r\n\ Permite\ que\ cuando\ se\ gana\ en\ el\ juego\ aparezca\ un\ letrero\ de\:\ "Ganaste"\r\n
+numComments=2

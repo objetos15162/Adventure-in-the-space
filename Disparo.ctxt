@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Disparo
+comment0.text=\r\n\ Clase\ disparo,\ contiene\ los\ m\u00E9todos\ cumunes\ de\ las\ subclases,\r\n\ el\ movimiento\ y\ checaOrilla\ todas\ las\ clases\ hijas\ los\ usan\ \r\n\ Jorge\ Arredondo\ Santiago\ \r\n\ version\ 1.0\r\n\ 30/05/16\r\n\ POO\ UASLP\r\n
+comment1.params=a\ b\ speed\ c\ d\ nivel
+comment1.target=Disparo(int,\ int,\ int,\ char,\ int,\ int)
+comment1.text=\r\n\ Constructor\ disparo,\ rtecibe\ los\ parametros\ necesarios\r\n\ para\ actuar\ de\ manera\ espec\u00EDfica\ dependiendo\ de\ la\ subclase\ que\ la\ llame\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ M\u00E9todo\ que\ siempre\ ejecuta\ el\ movimiento\ cuando\ sea\ llamado\ \r\n
+comment3.params=a\ b\ speed\ c\ d\ nivel
+comment3.target=void\ aaa(int,\ int,\ int,\ char,\ int,\ int)
+comment3.text=\r\n\ Metodo\ que\ contiene\ las\ instrucciones\ como\ debe\ actuar\ la\ clase\ disparo\r\n
+comment4.params=
+comment4.target=void\ checaOrilla()
+comment4.text=\r\n\ M\u00E9todo\ que\ elimina\ esta\ clase\ si\ es\ que\ se\ llego\ al\ extremo\r\n
+comment5.params=
+comment5.target=int\ tocandoHeroe()
+comment5.text=\r\n\ M\u00E9todo\ que\ regresa\ 1\ si\ esta\ clase\ esta\ tocando\ a\ la\ clase\ heroe\r\n
+numComments=6

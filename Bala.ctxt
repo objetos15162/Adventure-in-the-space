@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Bala
+comment0.text=\r\n\ Clase\ Bala\ usada\ por\ el\ heroe\r\n\ Jorge\ Arredondo\ Santiago\ \r\n\ version\ 1.0\r\n\ 30/05/16\r\n\ POO\ UASLP\r\n
+comment1.params=a\ b\ speed\ c\ d\ nivel
+comment1.target=Bala(int,\ int,\ int,\ char,\ int,\ int)
+comment1.text=\r\n\ Constructor\ Bala\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ M\u00E9todo\ que\ ejecuta\ constantemente\ los\ m\u00E9todos\ de\ mueve\ y\ checaOrilla\ del\ padre\r\n
+numComments=3

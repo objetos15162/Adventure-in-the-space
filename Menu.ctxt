@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ Clase\ menu,\ encargada\ de\ mostrar\ los\ botones\ hacia\ nivel\ 1\ y\ ayuda\r\n\ Jorge\ Arredondo\ Santiago\ \r\n\ version\ 1.0\r\n\ 30/05/16\r\n\ POO\ UASLP\r\n
+comment1.params=
+comment1.target=Menu()
+comment1.text=\r\n\ Constructor\ clase\ Menu.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ M\u00E9todo\ que\ siempre\ se\ esta\ ejecutando\r\n\ Esta\ encargada\ de\ esperar\ el\ momento\ de\ reedirigir\ a\ la\ ayuda\ o\ nivel\ 1\r\n
+comment3.params=
+comment3.target=void\ muestraBotones()
+comment3.text=\r\n\ M\u00E9todo\ encargado\ de\ mostrar\ los\ botones\ jugar\ y\ ayuda\ \r\n
+comment4.params=
+comment4.target=void\ dirigePagina()
+comment4.text=\r\n\ M\u00E9todo\ que\ espera\ a\ que\ se\ oprima\ algun\ bot\u00F3n,\ redirige\ hacia\ el\ nuvel1\ o\ ayuda\r\n
+numComments=5

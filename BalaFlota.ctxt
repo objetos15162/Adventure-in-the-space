@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BalaFlota
+comment0.text=\r\n\ Clase\ BalaFlota\ usada\ por\ los\ alien\ y\ flota\r\n\ \r\n\ Jorge\ Arredondo\ Santiago\ \r\n\ version\ 1.0\r\n\ 30/05/16\r\n\ POO\ UASLP\r\n
+comment1.params=a\ b\ speed\ c\ d\ nivel
+comment1.target=BalaFlota(int,\ int,\ int,\ char,\ int,\ int)
+comment1.text=\r\n\ Constructor\ BalaFlota\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ M\u00E9todo\ que\ remueve\ este\ objeto\ si\ se\ toco\ a\ la\ clase\ heroe\ \r\n
+numComments=3

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Nivel3
+comment0.text=\r\nEn\ esta\ clase\ se\ inicializan\ y\ crean\ los\ objetos\ que\ interactuaran\ en\ el\ nivel,\ en\ este\ caso\ solo\ es\ el\ jefe\ final\r\n\ Jorge\ Arredondo\ Santiago\ \r\n\ version\ 1.0\r\n\ 30/05/16\r\n\ POO\ UASLP\r\n
+comment1.params=
+comment1.target=Nivel3()
+comment1.text=\r\n\ Constructor\ Nivel3.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ construyeNivel3()
+comment2.text=\r\n\ M\u00E9todo\ que\ inicializa\ todos\ los\ objetos\ que\ se\ crearan\ en\ el\ nivel\ \r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Ciclo\ que\ siempre\ se\ esta\ ejecutando\r\n\ En\ este\ se\ checa\ la\ validacion\ de\ puntos\ para\ ganar\ el\ juego\r\n\ Mientras\ no\ se\ cumplan\ las\ condiciones\ especificadas\ se\ ejecutaran\ los\ m\u00E9todos,\ activaObjetosN3\ y\ enemigoAlcanzado\r\n
+comment4.params=
+comment4.target=void\ activaObjetosN3()
+comment4.text=\r\n\ M\u00E9todo\ que\ reactiva\ a\ la\ posicion\ inicial\ al\ enemigo,\ si\ este\ llega\ a\ un\ borde\ \ \r\n
+comment5.params=
+comment5.target=void\ enemigoAlcanzado()
+comment5.text=\r\n\ M\u00E9todo\ que\ puntua\ en\ 1,\ si\ el\ m\u00E9todo\ alcanzado\ del\ objeto\ jefe\ es\ igual\ a\ 1\ \r\n
+comment6.params=
+comment6.target=void\ elimina_escenario()
+comment6.text=\r\n\ Metodo\ que\ elimina\ todos\ los\ objetos\ del\ nivel\r\n
+comment7.params=
+comment7.target=void\ heroeAlcanzado()
+comment7.text=\r\n\ M\u00E9todo\ que\ hace\ posible\ quitar\ 1\ vida\ al\ usuario,\r\n\ las\ vidas\ se\ almacenan\ gracias\ a\ la\ clase\ letrero\r\n
+numComments=8

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=JuegoPerdido
+comment0.text=\r\n\ Clase\ JuegoPerdido\r\n\ Jorge\ Arredondo\ Santiago\ \r\n\ version\ 1.0\r\n\ 30/05/16\r\n\ POO\ UASLP\r\n
+comment1.params=
+comment1.target=JuegoPerdido()
+comment1.text=\r\n\ Constructor\ Clase\ JuegoPerdido\r\n\ Permite\ que\ cuando\ se\ pierde\ en\ el\ juego\ aparezca\ un\ letrero\ de\:\ "Fin\ del\ juego"\r\n
+numComments=2

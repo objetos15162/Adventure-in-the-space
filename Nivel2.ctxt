@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Nivel2
+comment0.text=\r\n\ En\ esta\ clase\ se\ inicializan\ y\ crean\ los\ objetos\ que\ interactuaran\ en\ el\ nivel\r\n\ Contiene\ los\ metodos\ que\ activan\ los\ objetos\ en\ el\ nivel\r\n\ Jorge\ Arredondo\ Santiago\ \r\n\ version\ 1.0\r\n\ 30/05/16\r\n\ POO\ UASLP\r\n
+comment1.params=
+comment1.target=Nivel2()
+comment1.text=\r\n\ Constructor\ Nivel2\r\n\ \r\n
+comment2.params=
+comment2.target=void\ construyeNivel2()
+comment2.text=\r\n\ M\u00E9todo\ que\ inicializa\ todos\ los\ objetos\ que\ se\ crearan\ en\ el\ nivel\ \r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Ciclo\ que\ siempre\ se\ esta\ ejecutando\r\n\ En\ este\ se\ checa\ la\ validacion\ de\ puntos\ para\ acceder\ al\ siguiente\ nivel\r\n\ Ejecutando\ de\ igual\ manera\ el\ m\u00E9todo\ enemigosAlcanzado\r\n
+comment4.params=
+comment4.target=void\ activaObjetosN2()
+comment4.text=\r\n\ Metodo\ que\ Eliminara\ los\ objetos\ del\ nivel,\ cuando\ el\ metodo\ borde\ del\ objeto\ sea\ 1\r\n\ De\ igual\ manera,\ los\ Reactivara\ ,\ para\ que\ aparezcan\ en\ un\ lugar\ aleatorio\ en\ x\ \ \r\n
+comment5.params=
+comment5.target=void\ enemigosAlcanzadosN2()
+comment5.text=\r\n\ Cuando\ el\ m\u00E9todo\ alcanzado\ de\ los\ enemigos\ es\ igual\ a\ 1,\ se\ puntua\ con\ 1\r\n\ Se\ remueve\ el\ objeto\ y\ reactiva\ en\ la\ posici\u00F3n\ inicial\r\n
+comment6.params=
+comment6.target=void\ elimina_escenario()
+comment6.text=\r\n\ Metodo\ que\ elimina\ todos\ los\ objetos\ del\ nivel\r\n
+comment7.params=
+comment7.target=void\ heroeAlcanzado()
+comment7.text=\r\n\ M\u00E9todo\ que\ hace\ posible\ quitar\ 1\ vida\ al\ usuario,\r\n\ las\ vidas\ se\ almacenan\ gracias\ a\ la\ clase\ letrero\r\n
+numComments=8

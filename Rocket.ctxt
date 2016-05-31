@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Rocket
+comment0.text=\r\n\ Clase\ Rocket\r\n\ Jorge\ Arredondo\ Santiago\ \r\n\ version\ 1.0\r\n\ 30/05/16\r\n\ POO\ UASLP\r\n
+comment1.params=y\ n
+comment1.target=Rocket(int,\ int)
+comment1.text=\r\nConstructor\ clase\ Rocket\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\nMetodo\ que\ siempre\ se\ ejecuta,\ manda\ llamar\ el\ metodo\ toca\ del\ padre\r\n
+numComments=3

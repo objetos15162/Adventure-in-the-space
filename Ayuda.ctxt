@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Ayuda
+comment0.text=\r\n\ Clase\ ayuda,\ encargada\ de\ mostrar\ una\ imagen\ con\ las\ instrucciones\r\n\ Jorge\ Arredondo\ Santiago\ \r\n\ version\ 1.0\r\n\ 30/05/16\r\n\ POO\ UASLP\r\n
+comment1.params=
+comment1.target=Ayuda()
+comment1.text=\r\n\ Constructor\ clase\ Menu.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ M\u00E9todo\ que\ siempre\ se\ esta\ ejecutando\r\n\ Esta\ encargada\ de\ esperar\ el\ momento\ de\ reedirigir\ al\ menu\r\n
+comment3.params=
+comment3.target=void\ muestraBoton()
+comment3.text=\r\n\ M\u00E9todo\ encargado\ de\ mostrar\ bot\u00F3n\ regresar\ \r\n
+comment4.params=
+comment4.target=void\ dirigePagina()
+comment4.text=\r\n\ M\u00E9todo\ que\ espera\ a\ que\ se\ oprima\ el\ bot\u00F3n,\ redirige\ hacia\ el\ menu\r\n
+numComments=5

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Jefe
+comment0.text=\r\n\ Clase\ Jefe\ solo\ aparece\ en\ el\ nivel\ 3\r\n\ Jorge\ Arredondo\ Santiago\ \r\n\ version\ 1.0\r\n\ 30/05/16\r\n\ POO\ UASLP\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Ciclo\ que\ siempre\ se\ ejecuta,\ los\ metodos\ llamados\ son\ muevete,\ setShot\ y\ borde\ y\ alcanzado\ del\ padre\r\n
+comment2.params=
+comment2.target=void\ muevete()
+comment2.text=\r\n\ M\u00E9todo\ que\ da\ el\ movimiento\ caracter\u00EDstico\ a\ la\ clase\r\n
+comment3.params=
+comment3.target=void\ setShot()
+comment3.text=\r\n\ M\u00E9todo\ empleado\ para\ disparar\ y\ agregar\ objetos\ BalJefe\ cada\ cierto\ tiempo\r\n
+numComments=4

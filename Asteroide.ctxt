@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Asteroide
+comment0.text=\r\n\ Clase\ Asteroide\r\n\ si\ toca\ al\ usuario\ se\ perdera\ mandara\ una\ bandera\ para\ indicar\ que\ se\ ha\ perdido\ una\ vida\r\n\ Jorge\ Arredondo\ Santiago\ \r\n\ version\ 1.0\r\n\ 30/05/16\r\n\ POO\ UASLP\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Ciclo\ que\ se\ ejecuta\ constante\ mente\r\n\ Se\ ejecuta\ el\ m\u00E9todo\ toca,\ al\ igual\ que\ los\ m\u00E9todos\ borde\ y\ alcanzado\ del\ padre\r\n
+comment2.params=
+comment2.target=int\ toca()
+comment2.text=\r\n\ M\u00E9todo\ que\ regresa\ 1\ y\ remueve\ este\ obeto,\ si\ se\ esta\ tocando\ a\ la\ clase\ heroe\r\n
+comment3.params=
+comment3.target=void\ muevete()
+comment3.text=\r\n\ M\u00E9todo\ utilizado\ para\ hacer\ que\ el\ objeto\ se\ mueva\r\n
+numComments=4

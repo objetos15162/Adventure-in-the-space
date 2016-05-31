@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Items
+comment0.text=\r\n\ Clase\ Items\r\n\ Jorge\ Arredondo\ Santiago\ \r\n\ version\ 1.0\r\n\ 30/05/16\r\n\ POO\ UASLP\r\n
+comment1.params=y\ n
+comment1.target=Items(int,\ int)
+comment1.text=\r\n\ Constructor\ clase\ Items,\ recibe\ los\ parametros\ para\ el\ comportamiento\ espec\u00EDfico\ dependiendo\ de\ la\ subclase\r\n
+comment2.params=y\ n
+comment2.target=void\ toca(int,\ int)
+comment2.text=\r\n\ M\u00E9todo\ que\ permite\ incrementa\ una\ cantidad\ espec\u00EDfica,\ la\ variable\ correspondiente\ y\ elimina\ la\ clase\r\n
+comment3.params=
+comment3.target=int\ borde()
+numComments=4

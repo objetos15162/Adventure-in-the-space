@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=alien
+comment0.text=\r\n\ Clase\ Alien\ \r\n\ si\ toca\ al\ usuario\ se\ perdera\ mandara\ una\ bandera\ para\ indicar\ que\ se\ ha\ perdido\ una\ vida\r\n\ Jorge\ Arredondo\ Santiago\ \r\n\ version\ 1.0\r\n\ 30/05/16\r\n\ POO\ UASLP\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\nCiclo\ que\ ejecuta\ el\ m\u00E9todo\ disparo\r\nLos\ metodos\ borde\ y\ alcanzado\ del\ padre\r\n
+comment2.params=
+comment2.target=void\ muevete()
+comment2.text=\r\n\ M\u00E9todo\ que\ permite\ moverse\ \ de\ manera\ \u00FAnica\ al\ aobjeto\ alien\r\n
+comment3.params=
+comment3.target=void\ setShot()
+comment3.text=\r\n\ M\u00E9todo\ empleado\ para\ disparar\ y\ agregar\ objetos\ BalFlota\ cada\ cierto\ tiempo\r\n
+numComments=4

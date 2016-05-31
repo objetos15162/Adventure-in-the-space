@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Enemigo
+comment0.text=Clase\ Enemigo,\ contiene\ los\ m\u00E9todos\ que\ heredaran\ las\ subclases\r\n\ Jorge\ Arredondo\ Santiago\ \r\n\ version\ 1.0\r\n\ 30/05/16\r\n\ POO\ UASLP\r\n
+comment1.params=
+comment1.target=int\ borde()
+comment1.text=\r\n\ M\u00E9todo\ encargado\ de\ regresar\ 1,\ si\ un\ objeto\ enemigo\ llega\ a\ algun\ borde\r\n
+comment2.params=
+comment2.target=int\ alcanzado()
+comment2.text=\r\n\ Metodo\ que\ regresa\ 1,\ si\ alguna\ subclase\ de\ enemigo\ fue\ alcanzada\ por\ una\ bala\ o\ misil\ \r\n
+numComments=3
